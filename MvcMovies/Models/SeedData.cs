@@ -2,6 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Linq;
+using MvcMovies.Data;
 
 namespace MvcMovies.Models
 {
